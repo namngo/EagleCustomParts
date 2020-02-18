@@ -302,7 +302,7 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="ESP32-WROOM-32D" prefix="U">
+<deviceset name="ESP32-WROOM-32D-CUSTOM" prefix="U">
 <description>IC: SoC; GPIO, I2C, I2S, IR, SD, SDIO, SPI, UART; 2.7÷3.6VDC; 20dBm</description>
 <gates>
 <gate name="G$1" symbol="ESP32-WROOM-32D" x="0" y="0"/>

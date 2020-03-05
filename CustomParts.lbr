@@ -896,6 +896,8 @@
 <technology name=""/>
 </technologies>
 </device>
+</devices>
+</deviceset>
 <deviceset name="ATSAMD21E" prefix="IC">
 <gates>
 <gate name="G$1" symbol="ATSAMD21E" x="2.54" y="0"/>

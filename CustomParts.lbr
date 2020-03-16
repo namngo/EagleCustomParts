@@ -1150,7 +1150,7 @@ Datasheet: https://www.diodes.com/assets/Datasheets/AH1815.pdf</description>
 <pin name="VCC" x="-12.7" y="2.54" length="middle" direction="pwr"/>
 <pin name="GND" x="-12.7" y="-2.54" length="middle" direction="pwr"/>
 <pin name="OUT" x="12.7" y="0" length="middle" direction="out" rot="R180"/>
-<text x="-7.62" y="5.08" size="1.778" layer="95">&gt;Name</text>
+<text x="-7.62" y="5.08" size="1.778" layer="95">&gt;NAME</text>
 <text x="-7.62" y="-7.62" size="1.778" layer="96">AH1815</text>
 </symbol>
 </symbols>
